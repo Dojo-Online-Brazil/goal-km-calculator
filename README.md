@@ -18,7 +18,7 @@ ou acima no dia atual e o quanto precisará fazer para bater a meta até 31/12.
 
 Você entra com:
 
-calculadora <meta> <realizado>
+calculadora [meta] [realizado]
 
 O sistama devolve:
 
