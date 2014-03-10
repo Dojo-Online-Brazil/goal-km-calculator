@@ -1,0 +1,18 @@
+Este script tem como objetivo calcular como anda seus resultados
+frente a meta estabelecida.
+
+Este sistema assume algumas coisas:
+1. A distancia percorrida no dia atual como primeiro argumento do script
+2. A meta no fim do ano
+3. Apenas considera objetivos entre 01/01 e 31/12
+
+Isso aqui é uma brincadeira para testar as soluções de todas as linguagens do mundo. =)
+
+O sistema deve pegar o total da meta informado dividir por 365 e informar se está abaixo
+ou acima no dia atual e o quanto precisará fazer para bater a meta até 31/12.
+
+Bem simples.
+
+Vamos atualizando esse README com a linguagem pushada, nome e data.
+
+Python - Celso Martins - 10/03/2014 - Em andamento
