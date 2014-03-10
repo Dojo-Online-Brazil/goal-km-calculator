@@ -16,6 +16,15 @@ Isso aqui é uma brincadeira para testar as soluções de todas as linguagens do
 O sistema deve pegar o total da meta informado dividir por 365 e informar se está abaixo
 ou acima no dia atual e o quanto precisará fazer para bater a meta até 31/12.
 
+Você entra com:
+
+calculadora <meta> <realizado>
+
+O sistama devolve:
+
+Hoje você deveria estar com X km realizados
+Você terá que realizar por dia, X km até o fim do ano para cumprir a meta.
+
 Bem simples.
 
 Vamos atualizando esse README com a linguagem pushada, nome e data.
